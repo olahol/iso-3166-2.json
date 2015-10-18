@@ -1,0 +1,16 @@
+{
+  "name": "iso-3166-2.json",
+  "version": "0.1.0",
+  "description": "JSON file of ISO 3166-2 subdivision codes.",
+  "main": "iso-3166-2.json",
+  "scripts": {
+    "build": "node ./compile.js",
+    "prepublish": "npm run build"
+  },
+  "author": "Ola Holmström",
+  "license": "ISC",
+  "devDependencies": {
+    "csv": "^0.4.6",
+    "file-size": "^1.0.0"
+  }
+}
