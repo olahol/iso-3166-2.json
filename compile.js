@@ -51,8 +51,7 @@ function eQuest(cb) {
 eQuest(function (err, data) {
   if (err) { console.error(err); }
 
-  var output = JSON.stringify(data);
-
+  var output = JSON.stringify(data, null, "  ");
 
   fs.stat(OUTPUT_FILE, function (err, stats) {
     if (err) { console.error(err); }
