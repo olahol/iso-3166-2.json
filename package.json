@@ -1,6 +1,6 @@
 {
   "name": "iso-3166-2.json",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "JSON file of ISO 3166-2 subdivision codes.",
   "main": "iso-3166-2.json",
   "scripts": {
