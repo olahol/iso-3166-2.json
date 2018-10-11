@@ -6,6 +6,8 @@
 [![Gzipped size][size-image-gz]][size-url]
 
 > JSON file of ISO 3166-2 subdivisions.
+> This repository was forked from https://github.com/olahol/iso-3166-2.json
+> It fixes typos
 
 ## Install
 
