@@ -1,5 +1,5 @@
 {
-  "name": "iso-3166-2-fixed.json",
+  "name": "json-countries",
   "version": "0.2.0",
   "description": "JSON file of ISO 3166-2 subdivision codes.",
   "main": "iso-3166-2.json",
